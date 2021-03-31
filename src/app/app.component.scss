@@ -1,0 +1,27 @@
+.saiyajin {
+    background-image: url("../assets/goku.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    height: 100vh;
+}
+
+.goku {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+.goku:hover {
+    color: yellow;
+}
+
+.vegeta {
+    color: paleturquoise;
+}
+
+.transform {
+    height: 1rem;
+}
